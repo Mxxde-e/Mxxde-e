@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Matthew Meede
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Matthew
 ======================================================================================================================================
 
 Computer Science & Business Administration student
@@ -12,7 +12,6 @@ I'm a Computer Science and Business Administration student at Saint Mary's Unive
 * ✉️  You can contact me at [mattmeede242@gmail.com](mailto:mattmeede242@gmail.com)
 * 🚀  I'm currently working on [Maze Duel - a local two-player maze sword-fighting game built with Unity.](http://github.com/Mxxde-e/Maze_Duel)
 * 🧠  I'm currently learning Computer science, software development, and game development with Unity.
-* 👥  I'm looking to collaborate on Student projects, Unity games, and creative software ideas.
 * 💬  Ask me about I’m interested in where technology, creativity, and business meet.
 
 <p align="left">
