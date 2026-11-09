@@ -3,7 +3,7 @@ Hi, I'm Matthew ![](https://user-images.githubusercontent.com/18350557/176309783
 
 I'm a Computer Science and Business Administration student at Saint Mary's University in Halifax, Nova Scotia. I enjoy turning ideas into working projects and building my skills through hands-on development.
 
-* 🚀  I'm currently working on [Maze Duel](http://github.com/Mxxde-e/Maze_Duel) - a local two-player maze sword-fighting game built with Unity.
+* 🚀  I'm currently working on [Maze Duel](http://github.com/Mxxde-e/Maze_Duel) (a local two-player maze sword-fighting game built with Unity)
 * 🧠 I’m learning more about software development, web technologies, and game development.
 * 🎮 I enjoy building web apps and small games, experimenting with new tools, and bringing creative ideas to life.
 
