@@ -1,11 +1,11 @@
-## Hi I'm Matthew ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+## Hi I'm Matthew ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
 I'm a Computer Science and Business Administration student at Saint Mary's University in Halifax, Nova Scotia. I enjoy turning ideas into working projects and building my skills through hands-on development. My projects include Maze Duel, a local two-player maze sword-fighting game built with Unity.
 
-* 🌍 I'm based in Halifax, NS
-* 🚀 I'm currently working on [Maze Duel](https://github.com/Mxxde-e/Maze_Duel) — a local two-player maze sword-fighting game built with Unity.
-* 🧠 I'm currently learning Computer science, software development, and game development with Unity.
-* 💬 Ask me about I’m interested in where technology, creativity, and business meet.
+* 🌍  I'm based in Halifax, NS
+* 🚀  I'm currently working on [Maze Duel](http://github.com/Mxxde-e/Maze_Duel) - a local two-player maze sword-fighting game built with Unity.
+* 🧠  I'm currently learning Computer science, software development, and game development with Unity.
+* 💬  Ask me about I’m interested in where technology, creativity, and business meet.
 
 ## Skills 💪
 
@@ -38,4 +38,5 @@ I'm a Computer Science and Business Administration student at Saint Mary's Unive
   <a href="https://github.com/Mxxde-e"><img src="https://skillicons.dev/icons?i=github" width="32" height="32" alt="GitHub" title="GitHub" /></a>
   <a href="https://www.linkedin.com/in/matthew-meede123/"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" alt="LinkedIn" title="LinkedIn" /></a>
   <a href="https://www.instagram.com/mxxde_/"><img src="https://skillicons.dev/icons?i=instagram" width="32" height="32" alt="Instagram" title="Instagram" /></a>
+  <a href="https://discord.com/users/528317650896551966"><img src="https://skillicons.dev/icons?i=discord" width="32" height="32" alt="Discord" title="Discord: meede_e" /></a>
 </p>
