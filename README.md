@@ -6,7 +6,7 @@ Right now, I’m working on Maze Duel, a local two-player maze sword-fighting ga
 
 Next, I want to branch into full-stack development and build an application from the interface through to the database and deployment. I’m still figuring out which area of development I want to focus on, and building different projects is how I’m exploring that.
 
-I’m always happy to collaborate on interesting projects where I can contribute, learn from others, and try something new. If you’re building something and could use another pair of hands, feel free to reach out.
+I’m always happy to collaborate on interesting projects where I can contribute, learn from others, and try something new. If you’re building something and could use another pair of hands, feel free to reach out!
 
 ## Skills 💪
 
